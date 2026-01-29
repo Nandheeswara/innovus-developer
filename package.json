@@ -1,0 +1,14 @@
+{
+  "name": "innovus",
+  "version": "1.0.0",
+  "description": "Innovus deployment project",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js",
+    "build": "echo 'Building project'",
+    "deploy": "vercel --prod"
+  },
+  "keywords": ["deployment", "router"],
+  "author": "Developer",
+  "license": "MIT"
+}
